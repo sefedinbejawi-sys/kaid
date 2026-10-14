@@ -1,0 +1,6 @@
+{
+  "name": "قائد نيوز - Kaid News",
+  "description": "صحيفة إلكترونية جزائرية وعالمية شاملة باللغتين العربية والفرنسية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
